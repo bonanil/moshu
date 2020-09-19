@@ -1,0 +1,75 @@
+.cl{
+    background-image: ;
+    height: 38rem;
+    border: 1px solid rgb(2, 2, 71);
+    background-size: cover;
+    background-image: url(./pexels-felix-mittermeier-956999.jpg);
+width: 100%;
+}
+.fr{
+    width: 20rem;
+    
+    border-bottom: 2px solid green;
+    margin-top: 4rem;
+}
+.ft{
+    width: 20rem;
+    
+    border-bottom: 2px solid green;
+    margin-top:1rem;  
+}
+.form-container{
+   border: 1px solid black; 
+   
+
+   
+   justify-content: center;
+   padding;
+   margin-top: 5rem;
+   -webkit-box-shadow: -1px -2px 9px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -2px 9px 11px rgba(0,0,0,0.75);
+box-shadow: -1px -2px 9px 11px rgba(0,0,0,0.75);
+border-radius: 5px 50px;
+}
+.bt{
+    margin-left: 4rem;
+    padding: 2px 7px 2px 7px;
+    width:10rem;
+    margin-bottom: 1rem;
+}
+.top{
+    margin-top:rem ;
+}
+.box{
+    transition: 1s;
+justify-content: center;
+text-align: center;
+}
+.box img{
+    display: block;
+    justify-content: center;
+}
+.box img:hover{
+ transform:scale(1.3);
+ z-index: 3;
+
+}
+.ho{
+    height: 18rem; width: 8rem;
+    background: white;
+}
+.ho:hover{
+    background:palevioletred ;
+    
+    z-index: 2;
+}
+.card-body:hover{
+    background:palevioletred ;
+    
+    z-index: 2; 
+}
+.card-footer:hover{
+    background:orangered ;
+    
+    z-index: 2; 
+}
